@@ -56,6 +56,9 @@ Date:   Tue Mar 30 14:02:19 2021 +0200
 # AFTER AMMEND COMMIT MESSAGE
 
 git log --oneline
+
 35b0ae6 (HEAD -> branch1) Add 6 words
+
 ec6ac33 (origin/master, master, branch2) Add numbers 6-9
+
 e0f76de Add numbers from 1-5
