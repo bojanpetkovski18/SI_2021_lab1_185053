@@ -74,3 +74,7 @@ CONFLICT (content): Merge conflict in numbers.txt
 
 Automatic merge failed; fix conflicts and then commit the result.
 
+# RESOLVING THE CONFILCT
+
+The conflict was resolved by appending the lines from number.txt from branch2 onto the master branch and then commiting with a message that explains how the conflict was resolved.
+
