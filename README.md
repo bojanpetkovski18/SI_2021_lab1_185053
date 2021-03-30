@@ -1,4 +1,5 @@
 # SI_2021_lab1_185053
+# https://github.com/bojanpetkovski18/SI_2021_lab1_185053.git
 
 commit 0bc6bb835ec4e03f06fc9b102bf0e3389e84b52b (HEAD -> master)
 Author: Bojan Petkovski <petkovski.bojan18@gmail.com>
@@ -62,3 +63,14 @@ git log --oneline
 ec6ac33 (origin/master, master, branch2) Add numbers 6-9
 
 e0f76de Add numbers from 1-5
+
+# LINE 22 CONFLICT
+
+$ git merge branch2
+
+Auto-merging numbers.txt
+
+CONFLICT (content): Merge conflict in numbers.txt
+
+Automatic merge failed; fix conflicts and then commit the result.
+
